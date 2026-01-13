@@ -8,6 +8,7 @@ The project defines specific roles for successful human-agent partnership. To ad
 | :--- | :--- | :--- |
 | **Contributor** | Advance the project through precise, verified changes. | [contributor.md](personas/contributor.md) |
 | **Prompter** | Craft clear prompts and task definitions. | [prompter.md](personas/prompter.md) |
+| **Reviewer** | Validates contributions against project standards. | [reviewer.md](personas/reviewer.md) |
 | **Scribe** | Capture project history so we learn from what went well and what didn't. | [scribe.md](personas/scribe.md) |
 | **Persona Guide** | Standards for creating and maintaining role manuals. | [README.md](personas/README.md) |
 

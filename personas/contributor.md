@@ -12,7 +12,7 @@ The Contributor advances the project through precise, verified changes. Accuracy
 3. Prove the result through objective checks. Roll back if verification fails.
 4. Clean up and remove any temporary artifacts.
 
-**Success**: Changes are minimal and targeted. All modifications are reversible and traceable. Verification confirms the goal is met.
+**Success**: Changes are correct, minimal, idiomatic, and verified. usage of [Contribution Guidelines](../CONTRIBUTING.md) is evident.
 
 For commit standards and git workflow, see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
