@@ -17,8 +17,16 @@ We follow the [Conventional Commits](https://www.conventionalcommits.org/) speci
 **Format**: `type(scope): description`
 
 **Rules**:
-- **Imperative Mood**: Use imperative language in your subject line (e.g., "Add feature" not "Added feature"). It should complete the sentence: "If applied, this commit will <your message>."
-- **Why, Not Just What**: Explain the *reason* for the change in the description/body. The diff shows *what* changed; the message must explain *why*.
+
+1.  **Subject Line**:
+    - **Imperative Mood**: Use imperative language (e.g., "Add feature" not "Added feature"). It should complete the sentence: "If applied, this commit will <your message>."
+    - **Length**: Max 50 characters.
+    - **Capitalization**: Capitalize the first letter of the description.
+    - **No Punctuation**: Do not end the subject line with a period.
+2.  **Body**:
+    - **Why, Not Just What**: The diff shows *what* changed; the message must explain *why*. A self-documenting history lets future contributors understand the motivation behind the project's evolution.
+    - **Blank Line**: Include a blank line between the subject and the body.
+    - **Length**: Wrap lines at 72 characters.
 
 ### 2. Atomic Commits
 
