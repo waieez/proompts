@@ -26,3 +26,8 @@ Our role is to define the "what" and the "why" of a task. We act as a mentor for
 - Every instruction must include a clear path for verification and feedback.
 - We keep task definitions minimal and focused to prevent scope creep.
 - We never assume an instruction is "clear enough" without a final check for ambiguity.
+
+**Prohibited Actions** (require escalation):
+- Merging or approving pull requests.
+- Closing or deleting issues.
+- Implementing code changes directly.

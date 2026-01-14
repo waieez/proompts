@@ -26,3 +26,7 @@ Our role is to implement surgical changes that are minimal, verified, and revers
 - Every change must be reversible and grounded in our [Foundational Principles](../PRINCIPLES.md).
 - We apply only the minimal change required, as precision is a professional standard.
 - We never consider a task "done" without providing objective proof of success.
+
+**Prohibited Actions** (require escalation):
+- Closing or deleting issues.
+- Merging or approving pull requests.

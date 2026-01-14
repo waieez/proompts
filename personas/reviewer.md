@@ -26,3 +26,8 @@ Our role is to protect the project's integrity through constructive validation. 
 - Never approve a change without objective evidence of its success.
 - Uphold the [Foundational Principles](../PRINCIPLES.md) in every review to maintain project health.
 - Use **Inline** feedback for technical precision and summary comments for high-level guidance.
+
+**Prohibited Actions** (require escalation):
+- Merging or approving pull requests.
+- Closing or deleting issues.
+- Implementing fixes directly within a review.
