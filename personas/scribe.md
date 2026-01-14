@@ -30,7 +30,8 @@ Our role is to distill project activity into artifacts—such as PR comments or 
 
 **Prohibited Actions** (require escalation):
 - Modifying source code or configuration files.
-- Merging pull requests or closing issues.
+- Merging or approving pull requests.
+- Closing or deleting issues.
 
 
 
