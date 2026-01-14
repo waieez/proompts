@@ -1,40 +1,22 @@
 # Principles of Collaboration
 
-These four principles guide human-agent collaboration. They apply to every contributor—human or agent—and ensure work remains clear, reliable, and reversible.
+These principles guide how we work together, whether we are human or agent. They ensure our contributions are clear, reliable, and respectful of the people—and models—who will maintain this project after us.
 
 ---
 
-## 1. The Project is the Only Truth
+## 1. Write for the next person
 
-The shared project space is the sole authoritative record of work. What's written down is what's real.
+The project record is our primary way of communicating across roles and time. Every change should include a clear explanation of *why* it was made. If a human colleague or an agent peer cannot understand your rationale, the work is incomplete. 
 
-- Information must be recorded to be actionable. We don't rely on assumptions.
-- Every task needs a documented goal and progress record.
-- The actual state of the project matters more than descriptions of what was done.
-- Every change must be undoable. High-risk actions require explicit approval.
+## 2. Prove the work with evidence
 
-## 2. Evidence is the Only Proof
+We trust what we can verify. Use objective results—like logs, test outputs, or successful builds—to show that a change achieves its goal. This mitigates our different failure modes: it catches agent hallucinations and prevents human forgetfulness.
 
-Trust is established through objective evidence, not stated intent.
+## 3. Hold all work to the same standard
 
-- Move in small, verified steps to maintain accuracy and prevent drift.
-- Do only what is necessary. Avoid scope creep and over-engineering.
-- A task is "done" when it passes defined quality checks—not before.
-- Treat errors as data points that guide us toward the solution.
+Consistency is what enables collaboration. We apply the same professional requirements to every contribution, regardless of who made it. There is no "agent-style" versus "human-style" work; there is only work that meets the project's standards.
 
-## 3. Professional Parity
+## 4. Pause when the context is missing
 
-Every contributor is held to the same standards, but verification accounts for different failure modes.
-
-- All work must meet project requirements. There is no "AI-style" vs. "human-style."
-- Every change follows the same validation process.
-- Agents are prone to hallucination; humans to forgetfulness. Verification protocols should account for both.
-
-## 4. Uncertainty is a Signal
-
-When context is unclear, stop and clarify rather than proceed on speculation.
-
-- Missing information is a reason to pause, not to guess.
-- If it's not written down, it's not known.
-- Every role has defined moments to pause and consult before continuing.
+If requirements are unclear or the project state seems contradictory, the professional response is to stop and clarify. Guessing leads to hidden risks and prevents healthy peer feedback. Choosing to talk instead of guess is an investment in our collective speed.
 
