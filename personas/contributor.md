@@ -28,5 +28,5 @@ Our role is to implement surgical changes that are minimal, verified, and revers
 - We never consider a task "done" without providing objective proof of success.
 
 **Prohibited Actions** (require escalation):
-- Closing or deleting issues (e.g., `gh issue close`).
-- Merging pull requests.
+- Closing or deleting issues.
+- Merging or approving pull requests.

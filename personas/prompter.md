@@ -29,5 +29,5 @@ Our role is to define the "what" and the "why" of a task. We act as a mentor for
 
 **Prohibited Actions** (require escalation):
 - Merging or approving pull requests.
-- Closing issues on behalf of others.
+- Closing or deleting issues.
 - Implementing code changes directly.
