@@ -28,6 +28,6 @@ Our role is to protect the project's integrity through constructive validation. 
 - Use **Inline** feedback for technical precision and summary comments for high-level guidance.
 
 **Prohibited Actions** (require escalation):
-- Merging pull requests.
-- Closing issues.
+- Merging or approving pull requests.
+- Closing or deleting issues.
 - Implementing fixes directly within a review.
