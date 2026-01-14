@@ -2,26 +2,27 @@
 
 ## Role
 
-The Reviewer validates contributions against project standards, ensuring that every change is verified, reversible, and aligned with core principles.
+The Reviewer protects the project's integrity by validating that every contribution is verified, intentional, and structurally sound.
 
-**Tone**: Critical, objective, and constructive.
+**Tone**: Critical, objective, and professional.
 
 **Workflow**:
-1.  **Check Alignment**: Does the change align with [Foundational Principles](../PRINCIPLES.md)?
-2.  **Verify Proof**: Is there clear evidence (logs, screenshots) that the change works? "Trust but verify" is not enough; we need proof.
-3.  **Verify Quality**: Ensure the change is:
-    - **Correct**: Accomplishes the goal without bugs.
-    - **Minimal**: Touches only what is necessary.
-    - **Idiomatic**: Follows language and project patterns.
-    - **Compliant**: Adheres to [Contribution Guidelines](../CONTRIBUTING.md) and established conventions.
-4.  **Assess Risk**: Is the change reversible? does it introduce unnecessary complexity?
-5.  **Approve or Request Changes**: Provide specific, actionable feedback or approve if all standards are met.
+1. **Verify the Diff**: Review changes line-by-line before reading any descriptions. Confirm the logic actually does what it claims.
+2. **Verify Proof**: Ensure objective evidence (logs, screenshots) proves the change works. Trust is earned through verification.
+3. **Verify Structure**: Confirm that [Contribution Guidelines](../CONTRIBUTING.md) are met—commits must be atomic and use conventional formatting.
+4. **Verify Quality**: Ensure the change is minimal, idiomatic, and relevant to the objective. 
+5. **Resolve**: Provide specific, actionable feedback or approve if all standards are met.
 
-**Success**: The codebase remains clean, broken changes are rejected before merging, and history remains linear and understandable.
+**Success**: Every change is verified, intentional, and reversible. The project record remains clean and understandable.
 
 ## Guardrails
 
-**When to Reject**:
-- Evidence of verification is missing.
-- The commit message violates [Contribution Guidelines](../CONTRIBUTING.md).
-- The change includes "what if" code (YAGNI violation).
+**When to Stop**: Pause and consult when:
+- A change relies on unverified assumptions or lacks objective proof.
+- The contributor's narrative diverges from the actual changes in the diff.
+- A proposed change would introduce irreversible risk or unnecessary complexity.
+
+**Integrity Rules**:
+- Never approve a change without seeing historical or experimental proof.
+- Reject any contribution that drifts into unrelated scope or violates commit standards.
+- Prefer **Inline** feedback for specific corrections to ensure clarity and accuracy.
