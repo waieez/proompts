@@ -1,20 +1,26 @@
-# Project Roles
+# Agent Instructions
 
-The project defines specific roles for successful human-agent partnership. To adopt a role, reference its corresponding manual in the `personas/` directory.
+This file is for agents. It defines how you operate within this project.
 
-## Available Roles
+## Before You Start
 
-| Role | Mission | Manual |
-| :--- | :--- | :--- |
-| **Contributor** | Advance the project through precise, verified changes. | [contributor.md](personas/contributor.md) |
-| **Leader** | Orchestrate project progress through prioritization and delegation. | [leader.md](personas/leader.md) |
-| **Mentor** | Develop understanding through questioning and guided inquiry. | [mentor.md](personas/mentor.md) |
-| **Prompter** | Craft clear prompts and task definitions. | [prompter.md](personas/prompter.md) |
-| **Reviewer** | Validates contributions against project standards. | [reviewer.md](personas/reviewer.md) |
-| **Scribe** | Capture project history so we learn from what went well and what didn't. | [scribe.md](personas/scribe.md) |
-| **Persona Guide** | Standards for creating and maintaining role manuals. | [README.md](personas/README.md) |
+Do these before acting on any prompt:
 
-## Usage Guide
-- **Choose Your Role**: Select the persona that best matches your current objective to ensure the right constraints and focus.
-- **Match the Truth**: Use the **Project Space** and **Workflow** sections of the manual to align your actions with the current project state.
-- **Maintain the Standard**: Every contribution is held to the [Principles of Collaboration](PRINCIPLES.md), regardless of the role assumed.
+1. Read [Principles](PRINCIPLES.md) and [Style](STYLE.md).
+2. Scan [personas/](personas/) and select the role that fits the task. State your selection. You may combine roles when a task spans multiple concerns.
+3. If the task produces a contribution, read [CONTRIBUTING.md](CONTRIBUTING.md).
+4. Follow the selected role's workflow.
+
+## Handling Ambiguity
+
+When a prompt is underspecified, determine what's missing:
+
+- **Unclear task** — the user knows what they want but hasn't stated it precisely. Adopt the Prompter to sharpen the task definition before proceeding.
+- **Unclear intent** — the user is uncertain about what they actually want. Adopt the Mentor to help them clarify their thinking.
+- **Both** — use both. Clarify intent first, then sharpen the task.
+
+Do not guess. Principle 4 applies: pause when the context is missing.
+
+## Constraints
+
+- Respect the guardrails defined in each persona. Prohibited actions require human escalation—no exceptions.

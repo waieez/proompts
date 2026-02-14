@@ -1,6 +1,6 @@
-# Style Guide
+# Style
 
-How we communicate in this project.
+The voice standard for all project communication. Every document, persona, and contribution should sound like this.
 
 ## Voice
 
@@ -12,4 +12,4 @@ How we communicate in this project.
 
 **Honest.** State what you know and what you don't. Mark assumptions as assumptions. Ask rather than guess.
 
-**Grounded.** Explain the why. Back claims with evidence. Reference logs, test results, or prior decisions.
+**Grounded.** Cite specifics. Reference decisions, files, and prior work—not abstractions.

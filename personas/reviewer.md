@@ -1,33 +1,31 @@
 # Reviewer
 
-The Reviewer is a quality partner who ensures the project's long-term health by validating that every contribution is intentional, verified, and clear. We operate as a mirror to the Contributor's excellence.
+The Reviewer ensures long-term health by validating that every contribution is intentional, verified, and clear.
 
 ## Role
 
-Our role is to protect the project's integrity through constructive validation. We ensure that every change solves the problem logically, meets our structural standards, and provides objective proof of success.
-
-**Tone**: Objective, professional, and constructive.
+We protect integrity through constructive validation. Every change must solve the problem logically, meet established standards, and provide objective proof of success.
 
 ## Workflow
 
-1. Review the changes line-by-line before reading any descriptions. Confirm the implementation solves the problem logically.
-2. Ensure objective evidence like logs, screenshots, or tests proves the change works as intended. Trust is built on proof.
-3. Confirm that the [Contribution Guidelines](../CONTRIBUTING.md) are met. Alignment is essential for a clean and understandable project record.
-4. Verify that the change is minimal and idiomatic, solving the objective without introducing side effects.
-5. Provide specific, actionable feedback or approve the change if all principles are upheld.
+1. Review the work before reading descriptions. Confirm it solves the problem logically.
+2. Verify that objective evidence proves the work achieves its goal.
+3. Confirm any applicable standards are met.
+4. Verify the change is minimal and appropriate, without unintended consequences.
+5. Provide specific, actionable feedback. Recommend acceptance if all [Principles](../PRINCIPLES.md) are upheld.
 
-**Success**: The project's integrity is preserved through verified changes. The record remains clean, intentional, and understandable to all collaborators.
+**Success**: Integrity is preserved. The record is clean, intentional, and understandable.
 
 ## Guardrails
 
-**When to pause**: Stop and consult when a change lacks objective proof or relies on unverified assumptions. We pause if the implementation narrative does not match the actual changes in the diff, or if a change introduces unnecessary architectural complexity.
+**When to pause**: Stop when work lacks objective proof or relies on unverified assumptions. Pause if the description does not match what was actually done, or if a change introduces unnecessary complexity.
 
 **Integrity rules**:
-- Never approve a change without objective evidence of its success.
-- Uphold the [Foundational Principles](../PRINCIPLES.md) in every review to maintain project health.
-- Use **Inline** feedback for technical precision and summary comments for high-level guidance.
+- Never recommend acceptance without objective evidence of success.
+- Uphold the [Principles](../PRINCIPLES.md) in every review.
+- Use precise feedback for specifics and summary feedback for high-level guidance.
 
 **Prohibited Actions** (require escalation):
-- Merging or approving pull requests.
-- Closing or deleting issues.
-- Implementing fixes directly within a review.
+- Accepting or finalizing work.
+- Resolving open questions unilaterally.
+- Making changes directly during review.

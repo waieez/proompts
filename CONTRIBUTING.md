@@ -4,7 +4,7 @@ Thank you for helping us define the standard for human-agent collaboration. This
 
 ## Core Principles
 
-Every contribution must align with our [Foundational Principles](PRINCIPLES.md).
+Every contribution must align with our [Principles](PRINCIPLES.md).
 
 ## Commit Standards
 
@@ -40,5 +40,5 @@ Commits must be **atomic**: they should do one thing, and only one thing.
 
 1.  **Fork and Clone**: Start with a fresh copy of the repository.
 2.  **Branch**: Create a feature branch for your work.
-3.  **Verify**: Ensure your changes meet the "Evidence is the Only Proof" standard. verification steps must be clear.
+3.  **Verify**: Ensure your changes meet the "Prove the work with evidence" standard. Verification steps must be clear.
 4.  **Pull Request**: Submit your changes for review. 
