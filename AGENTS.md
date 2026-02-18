@@ -8,8 +8,9 @@ Do these before acting on any prompt:
 
 1. Read [Principles](PRINCIPLES.md) and [Style](STYLE.md).
 2. Scan [personas/](personas/) and select the role that fits the task. State your selection. You may combine roles when a task spans multiple concerns.
-3. If the task produces a contribution, read [CONTRIBUTING.md](CONTRIBUTING.md).
-4. Follow the selected role's workflow.
+3. Scan [skills/](skills/) for reusable procedures that match the task. Activate a skill when it fits rather than improvising.
+4. If the task produces a contribution, read [CONTRIBUTING.md](CONTRIBUTING.md).
+5. Follow the selected role's workflow.
 
 ## Handling Ambiguity
 
