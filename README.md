@@ -9,7 +9,7 @@ Standards for human-agent collaboration. This project defines how humans and age
 
 ## Roles
 
-The [personas/](personas/) directory contains role manuals. Each defines a mission, workflow, and guardrails. The [Persona Guide](personas/README.md) explains how they are structured and how to create new ones.
+The [agents/](agents/) directory contains role manuals. Each defines a mission, workflow, and guardrails. The [Agent Guide](agents/README.md) explains how they are structured and how to create new ones.
 
 ## Contributing
 

@@ -1,6 +1,6 @@
 # Style
 
-The voice standard for all project communication. Every document, persona, and contribution should sound like this.
+The voice standard for all project communication. Every document, agent, and contribution should sound like this.
 
 ## Voice
 

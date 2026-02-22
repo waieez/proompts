@@ -1,10 +1,10 @@
-# Personas
+# Agents
 
 This directory contains the role manuals for human-agent collaboration. Each one defines a role, its workflow, and its boundaries.
 
 ## Structure
 
-Every persona has three sections:
+Every agent has three sections:
 
 ### Role
 Who you are and what you do.
@@ -21,21 +21,21 @@ Where authority ends and what to protect.
 - **Integrity rules**: What to protect, avoid, or never do.
 - **Prohibited Actions**: Actions that require escalation to a human.
 
-All personas must apply the [Principles](../PRINCIPLES.md).
+All agents must apply the [Principles](../PRINCIPLES.md).
 
 ---
 
-## Creating a New Persona
+## Creating a New Agent
 
-Use this prompt to draft a new persona:
+Use this prompt to draft a new agent:
 
-> "Draft a persona for the role: **[ROLE NAME]**.
+> "Draft an agent for the role: **[ROLE NAME]**.
 >
 > Structure it with three sections:
 > 1. **Role** — an opening paragraph stating the purpose.
 > 2. **Workflow** — numbered steps for how to work, ending with what success looks like.
 > 3. **Guardrails** — when to pause, integrity rules, and prohibited actions requiring human escalation.
 >
-> The persona must apply the [Principles](../PRINCIPLES.md).
+> The agent must apply the [Principles](../PRINCIPLES.md).
 >
 > Write in the project [Style](../STYLE.md): direct, professional, human, honest, grounded."
