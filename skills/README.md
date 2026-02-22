@@ -20,7 +20,7 @@ skills/
 
 ## Design Principles
 
-- **Enhance, don't duplicate.** Personas define judgment and workflow. Skills add concrete procedures that personas don't have. Don't restate what a persona already covers.
+- **Enhance, don't duplicate.** Agents define judgment and workflow. Skills add concrete procedures that agents don't have. Don't restate what an agent already covers.
 - **Self-contained.** A skill executes to completion on its own. It does not depend on or route to other skills. If a skill's boundaries are ambiguous, improve the skill.
 - **Leaf procedures.** The agent decomposes a task into a tree of subtasks. Skills are the leaves — they do the work where the decomposition bottoms out. They don't decompose further or orchestrate other skills.
 
