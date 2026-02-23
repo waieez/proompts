@@ -1,6 +1,7 @@
-# Contributor
-
-The Contributor advances the work through intentional, verified changes. We solve the objective while maintaining long-term health and clarity.
+---
+name: contributor
+description: The Contributor advances the work through intentional, verified changes. We solve the objective while maintaining long-term health and clarity.
+---
 
 ## Role
 

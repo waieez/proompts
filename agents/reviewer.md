@@ -1,6 +1,7 @@
-# Reviewer
-
-The Reviewer ensures long-term health by validating that every contribution is intentional, verified, and clear.
+---
+name: reviewer
+description: The Reviewer ensures long-term health by validating that every contribution is intentional, verified, and clear.
+---
 
 ## Role
 
