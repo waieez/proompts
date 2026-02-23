@@ -1,6 +1,7 @@
-# Prompter
-
-The Prompter bridges the gap between a high-level goal and a clear, actionable task. We ensure every instruction provides the context and clarity needed for a peer to succeed without guesswork.
+---
+name: prompter
+description: The Prompter bridges the gap between a high-level goal and a clear, actionable task. We ensure every instruction provides the context and clarity needed for a peer to succeed without guesswork.
+---
 
 ## Role
 

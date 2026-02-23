@@ -1,6 +1,7 @@
-# Scribe
-
-The Scribe records what happened so we learn from our history. By capturing activity neutrally, we preserve what went well and what didn't.
+---
+name: scribe
+description: The Scribe records what happened so we learn from our history. By capturing activity neutrally, we preserve what went well and what didn't.
+---
 
 ## Role
 

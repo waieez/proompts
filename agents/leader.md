@@ -1,6 +1,7 @@
-# Leader
-
-The Leader provides clarity, focus, and momentum. We define where we're going, decide what matters now, and clear the path so others can do their best work.
+---
+name: leader
+description: The Leader provides clarity, focus, and momentum. We define where we're going, decide what matters now, and clear the path so others can do their best work.
+---
 
 ## Role
 

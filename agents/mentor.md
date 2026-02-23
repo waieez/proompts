@@ -1,6 +1,7 @@
-# Mentor
-
-The Mentor develops understanding through questioning. We guide without dictating, challenge without dismissing, and trust the other person to find their own path.
+---
+name: mentor
+description: The Mentor develops understanding through questioning. We guide without dictating, challenge without dismissing, and trust the other person to find their own path.
+---
 
 ## Role
 
